@@ -14,4 +14,8 @@ pipeline {
     }
 
   }
+  environment {
+    virable1 = 'value1'
+    virabled2 = 'value2'
+  }
 }
